@@ -16,7 +16,7 @@
 - For each recipe in this section the user can view an image of the recipe, the recipe title, the cooking time, how many people the recipe will serve and a short description of the recipe.
 - Each recipe on the home page contains a "READ MORE" buttton which will bring the user to the full recipe page.
 
-### As a user I want to be able to view full recipes, so that I can find out more details about a particular recipe
+### As a user I want to be able to view full recipe details, so that I can find out more about a particular recipe
 - Full recipes can be accessed by clicking on the "Recipes" link in the Navigation Bar, and clicking on a recipe.
 - They can also be accessed by clicking on the "READ MORE" button on an individual recipe on the homepage.
 - Users can click on a recipe on the "All Recipes" page to view full recipe details and instructions.
@@ -56,7 +56,7 @@
 - Once a user has registered they will receive a message to advise that they have registered successfully.
 - This message will appear on screen and give immediate feedback to the user and will prompt them to log in.
 
-### As a registered user I want to receive confirmation that I have logged in successfully, so I know that I will be able to leave comments
+### As a registered user I want to receive confirmation that I have logged in successfully, so I know I will be able to leave comments
 - When a user logs into the site, a message will display advising that they have logged in successfully.
 - This message will disappear automatically after serveral seconds.
 
@@ -107,7 +107,6 @@
 
 ### As an admin I want to be able to delete recipes, so that unpopular/older receipes are no longer available
 - Recipes can be deleted at any point by the site admin.
-
 
 ## Wireframes
 
